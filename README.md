@@ -9,7 +9,7 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 ## What you will create
 
-We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
 ![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/My%20Video.gif)
 
@@ -27,5 +27,3 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
